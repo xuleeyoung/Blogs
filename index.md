@@ -1,4 +1,4 @@
-# The first Web Page for us
+# The First Web Page For Us
 
 ## 2021. 11. 03 The first day of this Website
 
