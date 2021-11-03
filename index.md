@@ -16,3 +16,7 @@
 
 Go to Test, click [here](test.md)
 
+
+
+How to use Markdown? Please refer to [Markdown Tutorial](markdown.html).
+
