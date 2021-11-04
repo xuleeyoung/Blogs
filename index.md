@@ -1,5 +1,13 @@
 # <center> FairyLand of  You & Me</center>
 
+## 2021.11.04 
+
+### Nice weather, nice day.
+
+### 小可要加油!!
+
+![Up up up](images/day1/y4.jpeg)
+
 ## 2021. 11. 03 The first day of this Website
 
 - We are together.
@@ -20,14 +28,14 @@
 
 <center>November, 2021</center>
 
-| Mon  | Tue  |      Wed      | Thu  | Fri  | Sat  | Sun  |
-| :--: | :--: | :-----------: | :--: | :--: | :--: | :--: |
-|  01  |  02  | [03](day1.md) |      |      |      |      |
-|      |      |               |      |      |      |      |
-|      |      |               |      |      |      |      |
-|      |      |               |      |      |      |      |
-|      |      |               |      |      |      |      |
-|      |      |               |      |      |      |      |
+| Mon  | Tue  |      Wed      |      Thu      | Fri  | Sat  | Sun  |
+| :--: | :--: | :-----------: | :-----------: | :--: | :--: | :--: |
+|  01  |  02  | [03](day1.md) | [04](day2.md) |      |      |      |
+|      |      |               |               |      |      |      |
+|      |      |               |               |      |      |      |
+|      |      |               |               |      |      |      |
+|      |      |               |               |      |      |      |
+|      |      |               |               |      |      |      |
 
 
 
