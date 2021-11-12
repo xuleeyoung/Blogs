@@ -2,11 +2,11 @@
 
 ## 是可忍，孰不可忍
 
-![m1](/Users/xuliyang/Desktop/Blogs/images/m1.png)
+![m1](images/m1.png)
 
-![m1](/Users/xuliyang/Desktop/Blogs/images/m2.png)
+![m1](images/m2.png)
 
-![m2](/Users/xuliyang/Desktop/Blogs/images/m3.png)
+![m2](images/m3.png)
 
 ## 2021.11.07
 
