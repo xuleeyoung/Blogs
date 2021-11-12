@@ -1,73 +1,99 @@
 # <center> </center>
 
-## 2021.11.07
+## 终章
 
-#### 今冬第一股寒潮
+无数次的失望就是在反反复复地拍醒自己，永远不要相信永远，所谓的改变毫无意义。
 
-#### 想给你温暖
+冷酷的现实告诉自己，你所幻想的美好，你所构思的未来，你所下定的决心，是如此轻而易举地被辜负。
 
+爱是发自内心的真诚，而利用你的感情的人，永远只是为了满足一己之私。
 
+都说双向奔赴才有意义，而宽容屈服和原谅，却变成了她无限消耗你的理由。
 
-## 2021.11.04 
+漫漫长夜里的等待，唤醒的却是变本加厉的折磨和理所当然的侮辱。
 
-### Nice weather, nice day.
+盲人会用双手触摸来感受你的付出，而她连触摸的愿望也没有，
 
-### 小可要加油!!
+她根本不希望你被看见，而不是看不见。
 
-![Up up up](images/day1/y4.jpeg)
+当这一页网站横空出世的那一刻，
 
-## 2021. 11. 03 The first day of this Website
+我再一次选择相信了爱情，尽管已经遍体鳞伤却依然坚持那份勇气，
 
-- We are together.
-- Aim to record our journal
-- To make each day count.
+我想尽最大的努力经营，也同时期待着她的改变。
 
-<img src="images/Me.jpeg" alt="Me" style="zoom:25%;" />
+可是从第二天起，就仿佛有种声音在告诉我，
 
-**This is me.**
+终究没有人会真正走入你的内心，为你着想，替你分担。
 
-<img src="images/She.jpeg" alt="She" style="zoom:25%;" />
+但因为爱，让我一次次放弃理性，
 
-**This is my little honey.**
+咬着牙去面对那些忍无可忍的事情，
 
+微笑着去接受那些无法接受的言语，
 
+哪怕一句抱歉，我都无法问心无愧地说出口。
 
-### **Calender**
+每一次退缩，满足不了一个想掌控你的人的膨胀欲望，
 
-<center>November, 2021</center>
+也换不来风平浪静和海阔天空，
 
-| Mon  | Tue  |      Wed      |      Thu      | Fri  | Sat  |      Sun      |
-| :--: | :--: | :-----------: | :-----------: | :--: | :--: | :-----------: |
-|  01  |  02  | [03](day1.md) | [04](day2.md) |  05  |  06  | [07](day7.md) |
-|      |      |               |               |      |      |               |
-|      |      |               |               |      |      |               |
-|      |      |               |               |      |      |               |
-|      |      |               |               |      |      |               |
-|      |      |               |               |      |      |               |
+而是将你推向无限深渊直到你心被撕碎的痛苦。
 
+只有世界上只剩下你一个人时，才能有机会思考，
 
+究竟谁，能真真切切带给你幸福的感觉和心灵的碰撞。
 
-*The websites that useful to rabbit:*
+如果说，并肩前行的人会擦出火花，
 
-* [Taobao](https://www.taobao.com): Buy and buy...
-* [Baidu](https://www.baidu.com): Search and search...
-* [bilibili](https://www.bilibili.com): Just for fun
+那我便已经输给了命运。
 
-*The websites that pig favorites:*
+沉迷于虚拟世界的苟且欢乐，并非我所愿的快乐，
 
-- [youdao](https://fanyi.youdao.com): Translation tool
-- [umji](https://www.ji.sjtu.edu.cn/cn/): Official website for pig's institute
-- [leetcode](https://leetcode-cn.com): A practical web for program
+终日碌碌无为，缠绵于欢笑，并非爱情的模样，
 
+把他的真心当作谜语揣测，用自己的心情来衡量爱的多少，
 
+主观，随性，毫无底线。
 
-### Others:
+她真的希望你变好吗？
 
-Go to Test, click [here](test.md)
+她有几分真心希望看到你成功呢？
 
-Go to Myself, click [Me](https://xuleeyoung.github.io/Blogs/)
+她真的可以顾全大局而不因所谓小事而喋喋不休吗？
 
-How to use Markdown? Please refer to [Markdown Tutorial](markdown.html).
+遥远的她还在哪里啊？
 
+世界上还有这样的她吗？
 
+做不到的事不要轻易承诺，
 
+没有坚定的信念不要轻易尝试。
+
+她不在乎，
+
+她很随性。
+
+爱，汗水，物质，
+
+都换不来她丝毫的知觉，
+
+回报你的，只有冷雨和凄风。
+
+无数次地把底线践踏，
+
+践踏的更是人格，
+
+她绝没有去尊重这份情，
+
+她所深思熟虑的，
+
+只有如何让自己活得潇洒。
+
+她值得吗？
+
+值得你为她而一次又一次地丧失尊严吗？
+
+既已是终章，
+
+分手不必再自贱。
