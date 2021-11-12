@@ -1,12 +1,4 @@
-# <center>What f*cking species you are? </center>
-
-## 是可忍，孰不可忍
-
-![m1](images/m1.png)
-
-![m1](images/m2.png)
-
-![m2](images/m3.png)
+# <center> </center>
 
 ## 2021.11.07
 
