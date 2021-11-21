@@ -2,6 +2,132 @@
 
 ### 2021.11.21
 
+今天其实是一个很特殊的日子
+
+尽管我们都像平常一样 忙碌着各自的事
+
+时间却在不知不觉地流逝
+
+这两天学森路旁的银杏又变得金黄
+
+让我不禁感慨
+
+这已是我们在一起后的第三个深秋
+
+初次相遇的美好却仿佛就在昨天
+
+可其实
+
+每年值此季节都是最难熬的
+
+北风吹不散牵挂
+
+落叶带不走思念
+
+渐渐地我们习惯了这种感受
+
+也积累了耐心
+
+静待来年的春暖花开
+
+我们永远都有理由相信
+
+我们期待的那些花朵
+
+会再次盛开
+
+量子力学的不确定性
+
+推翻了牛顿体系的宿命论
+
+不确定性才是人生的乐趣
+
+也让辛勤换取果实成为可能
+
+未来有很多的机遇在等待
+
+面对不确定的未来
+
+唯有不变的初心
+
+才能够让我们自信
+
+以前我们总是觉得彼此不适合
+
+也因此闹过许多矛盾
+
+但世界上并没有一个能完全与自己相融的人
+
+平行时空里也不存在另一个自己
+
+唯一让她保持那份心动的方式
+
+就是为了自己喜欢的人而改变
+
+---
+
+又想和你喝星冰乐了
+
+又想和你“第二杯半价”了
+
+还有很多没有实现的：
+
+想和你堆雪人
+
+和你拍合影
+
+和你一屋二人三餐四季
+
+和你一起闯出一片天地
+
+![13641637500249_.pic](images/ann.jpeg)
+
+![2019](images/2019.jpeg)
+
+![2020](images/2020.jpeg)
+
+用C++写一段代码：
+
+```C++
+#define 800th_day srand(time(NULL));
+#include "You.h"
+class person
+{
+  private:
+  char *name;
+  class person *miss;
+  class person *love;
+  class person *forever;
+  
+  public:
+  bool I_miss_you(class &person);
+  bool I_love_you(class &person);
+  bool We_forever(class &person);
+}
+
+bool I_miss_you(class &person){
+  this->miss = &person
+}
+
+bool I_love_you(class &person){
+  this->love = &person
+}
+
+bool We_forever(class &person){
+  this->forever = &person
+}
+void happiness(class person & You, class person & Me)
+{
+  Me.I_miss_you(You);
+  Me.I_love_you(You);
+  Me.We_forever(You);
+}
+```
+
+
+
+### 2021.11.21
+
 好歌分享：勇气
 
 终于做了这个决定
