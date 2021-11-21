@@ -100,21 +100,21 @@ class person
   class person *forever;
   
   public:
-  bool I_miss_you(class &person);
-  bool I_love_you(class &person);
-  bool We_forever(class &person);
+  bool I_miss_you(class person &someone);
+  bool I_love_you(class person &someone);
+  bool We_forever(class person &someone);
 }
 
-bool I_miss_you(class &person){
-  this->miss = &person
+bool I_miss_you(class person &someone){
+  this->miss = &someone
 }
 
-bool I_love_you(class &person){
-  this->love = &person
+bool I_love_you(class person &someone){
+  this->love = &someone
 }
 
-bool We_forever(class &person){
-  this->forever = &person
+bool We_forever(class person &someone){
+  this->forever = &someone
 }
 void happiness(class person & You, class person & Me)
 {
